@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Los Hijos del Cuerno",
+"dataUrl": "Los Hijos del Cuerno git.data.unityweb",
+"asmCodeUrl": "Los Hijos del Cuerno git.asm.code.unityweb",
+"asmMemoryUrl": "Los Hijos del Cuerno git.asm.memory.unityweb",
+"asmFrameworkUrl": "Los Hijos del Cuerno git.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
